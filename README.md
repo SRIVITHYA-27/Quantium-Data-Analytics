@@ -1,2 +1,2 @@
-# Quantium-Data-Analytics
+# Quantium-Data-Analytics/python
 Analytics project using python
